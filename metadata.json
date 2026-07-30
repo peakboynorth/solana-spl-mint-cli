@@ -1,0 +1,6 @@
+{
+  "name": "Solana SPL Token Creator",
+  "description": "Create SPL Token with Metaplex Metadata on Solana Devnet using Umi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
